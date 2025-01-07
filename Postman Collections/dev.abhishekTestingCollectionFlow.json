@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "3f09aba5-365a-4294-85d9-dbad0665d3ce",
+		"name": "abhishekmonitorstuck00",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "1a2db4c5-b7a7-4528-b592-632c87f73c49",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://cat-fact.herokuapp.com/facts"
+			},
+			"response": []
+		}
+	]
+}
