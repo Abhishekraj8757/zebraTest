@@ -16,6 +16,45 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "3088aafd-06b6-496b-9602-2a7899d06436",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "www.google.com"
+			},
+			"response": []
+		},
+		{
+			"name": "testing",
+			"id": "5f3a8dcb-170c-4e1e-9407-f634036e1ecf",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "www.postman.com"
+			},
+			"response": []
+		},
+		{
+			"name": "terminate",
+			"id": "eb100ec8-177d-4333-b597-892862d4e828",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "www.postman.com"
+			},
+			"response": []
 		}
 	]
 }
